@@ -25,8 +25,8 @@
 
 
 
-   <td>  <img src="img/anaconda.png" alt="Drawing" style="width: 100%;"/> </td>
-   <td>  <img src="img/anaconda00.png" alt="Drawing" style="width:100%;"/> </td>
+   <td>  <img src="img/anaconda.png" alt="Drawing"  </td>
+   <td>  <img src="img/anaconda00.png" alt="Drawing"  </td>
 
 
 <Al ingresar a la pagina seleccionar la version de interes apara su ordenador>
