@@ -23,7 +23,9 @@
 ## 1. Búsqueda de software
 ### <center> Ingresar desde tu navegador a la pagina oficial _https://www.continuum.io/downloads_
 
+<center><img src="img/anaconda.png"/ width = 35%></center>
 
+# aqui
 
    <td>  <img src="img/anaconda.png" alt="Drawing" style="width: 1800px;"/> </td>
    <td>  <img src="img/anaconda00.png" alt="Drawing" style="width:1800px;"/> </td>
