@@ -37,8 +37,8 @@
 
 ####  Se recomienda la instalación de la versión más reciente debido a características mejoradas
 
-   <td>  <img src="img/anaconda2.png" alt="Drawing" style="width: 1200px;"/> </td>
-   <td>  <img src="img/anaconda3.png" alt="Drawing" style="width: 900px;"/> </td>
+   <td>  <img src="img/anaconda2.png" alt="Drawing" style="width: 20%;"/> </td>
+   <td>  <img src="img/anaconda3.png" alt="Drawing" style="width: 50%;"/> </td>
 
 
 
