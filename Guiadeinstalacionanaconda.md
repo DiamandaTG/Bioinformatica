@@ -52,13 +52,13 @@
 
 |                                                                                                                    |   
 |-------------------------------------------|------------------------------------------------------------------------|
-| <img src="img/anaconda5.png"/ width = 200%>| <img src="img/anaconda6.png"/ width = 200%>| 
+| <img src="img/anaconda5.png"/ width = 50%>| <img src="img/anaconda6.png"/ width = 50%>| 
 |
-|<img src="img/anaconda7.png"/ width = 200%>|<img src="img/anaconda8.png"/ width = 100%>
+|<img src="img/anaconda7.png"/ width = 50%>|<img src="img/anaconda8.png"/ width = 50%>
 |
-|<img src="img/anaconda9.png"/ width = 200%>|<img src="img/anaconda10.png"/ width = 100%>
+|<img src="img/anaconda9.png"/ width = 50%>|<img src="img/anaconda10.png"/ width = 50%>
 |
-|<img src="img/anaconda11.png"/ width =200%>|<img src="img/anaconda12.png"/ width = 100%>
+|<img src="img/anaconda11.png"/ width =50%>|<img src="img/anaconda12.png"/ width = 50%>
 
 
 	
