@@ -25,8 +25,8 @@
 
 <center><img src="img/anaconda.png"/ width = 35%></center>
 
-<img src="img/anaconda.png" alt="Drawing" style="width = 10%">
-<img src="img/anaconda00.png" alt="Drawing" style="width = 50%"> </td>
+<img src="img/anaconda.png"/ width = 10%>
+<img src="img/anaconda00.png"/ width = 50%> </td>
 
 # aqui
 
