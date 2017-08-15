@@ -25,10 +25,13 @@
 
 <center><img src="img/anaconda.png"/ width = 35%></center>
 
+<img src="img/anaconda.png" alt="Drawing" style="width = 10%">
+<img src="img/anaconda00.png" alt="Drawing" style="width = 50%"> </td>
+
 # aqui
 
-   <td>  <img src="img/anaconda.png" alt="Drawing" style="width= 35%"/> </td>
-   <td>  <img src="img/anaconda00.png" alt="Drawing" style="width=50%"/> </td>
+   <td>  <img src="img/anaconda.png" alt="Drawing" style="width = 10%"/> </td>
+   <td>  <img src="img/anaconda00.png" alt="Drawing" style="width = 50%"/> </td>
 
 
 <Al ingresar a la pagina seleccionar la version de interes apara su ordenador>
