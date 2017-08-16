@@ -25,8 +25,8 @@
 
 
 
-   <td>  <img src="img/anaconda.png" alt="Drawing" style="width: 1800px;"/> </td>
-   <td>  <img src="img/anaconda00.png" alt="Drawing" style="width:1800px;"/> </td>
+   <td>  <img src="img/presentacion.png" alt="Drawing" style="width: 1800px;"/> </td>
+   
 
 
 <Al ingresar a la pagina seleccionar la version de interes apara su ordenador>
