@@ -1,16 +1,16 @@
 
 # <center>**Conociendo Anaconda**
 
-
+<p align="center">
 <img src="img/anaconda0.png"/>
 
-<div style="text-align: right"> Por: *Diamanda Tapia*  </div>
+<div style="text-align: right"> Por: Diamanda Tapia  </div>
 
    ### Anaconda es el ecosistema de ciencia de datos mas popular en el mundo, innovando en el desarrollo en proyectos de codigo abierto que son el fundamento de la ciencia moderna.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-<p align="center">
+
 ## <center>***Guía de Instalación***</center> 
 
 * _Búsqueda de software_
@@ -43,7 +43,7 @@
 
 ## 3. Ejecución de instalador
 <p align="center">
-<img src="img/anaconda5.png"/>
+<img src="img/anaconda5.png"/ width = 70%>
 
 ##### Mostrará una serie de pasos para su posterior instalación
 
