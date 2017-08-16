@@ -35,7 +35,7 @@
 ####  Se recomienda la instalación de la versión más reciente debido a características mejoradas
 
 
-<img src="img/presentacion2.png"/ width = 100%>
+<img src="img/presentacion2.png"/>
 
 
 
@@ -50,8 +50,8 @@
 
 
 	
-<img src="img/presentacion3.png"/ width = 100%>
-<img src="img/presentacion4.png"/ width = 100%>
+<img src="img/presentacion3.png"/>
+<img src="img/presentacion4.png"/>
 
 
 
@@ -63,7 +63,7 @@
 #### Cerrar ventana de culminación de instalación
   
 
-<img src="img/presentacion5.png"/ width = 100%>
+<img src="img/presentacion5.png"/>
 
 ## 6. Seleccionar programa de interés
 
