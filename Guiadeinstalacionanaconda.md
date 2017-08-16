@@ -1,6 +1,6 @@
-<p align="center">
-# Conociendo Anaconda
 
+<p align="center">
+<h1 id="titulo1"> <align="center"><strong><span id="titulo1">CONOCIENDO ANACONDA</span></h1>
 <p align="center">
 <img src="img/anaconda0.png"/>
 
