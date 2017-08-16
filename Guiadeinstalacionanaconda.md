@@ -4,7 +4,8 @@
 <p align="center">
 <img src="img/anaconda0.png"/>
 
-<div style="text-align: right"> Por: Diamanda Tapia  </div>
+<p align="right">
+Por: Diamanda Tapia  
 
    ### Anaconda es el ecosistema de ciencia de datos mas popular en el mundo, innovando en el desarrollo en proyectos de codigo abierto que son el fundamento de la ciencia moderna.
 
