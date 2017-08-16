@@ -2,7 +2,7 @@
 # <center>**Conociendo Anaconda**
 
 
-<center><img src="img/anaconda0.png"/ width = 35%></center> 
+<img src="img/anaconda0.png"/>
 
 <div style="text-align: right"> Por: *Diamanda Tapia*  </div>
 
@@ -10,7 +10,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-
+<p align="center">
 ## <center>***Guía de Instalación***</center> 
 
 * _Búsqueda de software_
@@ -23,7 +23,8 @@
 ## 1. Búsqueda de software
 ### <center> Ingresar desde tu navegador a la pagina oficial _https://www.continuum.io/downloads_
 
-<img src="img/presentacion.png"/>
+<p align="center">
+<img src="img/presentacion.png"/>	
 
 
 <Al ingresar a la pagina seleccionar la version de interes apara su ordenador>
@@ -34,22 +35,22 @@
 
 ####  Se recomienda la instalación de la versión más reciente debido a características mejoradas
 
-
+<p align="center">
 <img src="img/presentacion2.png"/>
 
 
 
 
 ## 3. Ejecución de instalador
-
-<center><img src="img/anaconda5.png"/ width = 70%> <center>
+<p align="center">
+<img src="img/anaconda5.png"/>
 
 ##### Mostrará una serie de pasos para su posterior instalación
 
 ##  4.Proceso de instalación
 
 
-	
+<p align="center">	
 <img src="img/presentacion3.png"/>
 <img src="img/presentacion4.png"/>
 
@@ -62,13 +63,13 @@
 
 #### Cerrar ventana de culminación de instalación
   
-
+<p align="center">
 <img src="img/presentacion5.png"/>
 
 ## 6. Seleccionar programa de interés
 
 ### _Ejemplo_
-
-<center><img src="img/anaconda16.png"/ width = 40%> <center>
+<p align="center">
+<img src="img/anaconda16.png"/ width = 40%> 
 
 # ¡Listo para navegar !
