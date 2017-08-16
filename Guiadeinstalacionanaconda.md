@@ -25,7 +25,7 @@
 
 
 
-   <td>  <img src="img/presentacion.png" alt="Drawing" style="width: 1800px;"/> </td>
+   <td>  <img src="img/presentacion.png" alt="Drawing" style="width: 2000px;"/> </td>
    
 
 
