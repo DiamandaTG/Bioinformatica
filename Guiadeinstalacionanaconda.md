@@ -1,5 +1,5 @@
-
-# <center>**Conociendo Anaconda**
+<p align="center">
+# Conociendo Anaconda
 
 <p align="center">
 <img src="img/anaconda0.png"/>
@@ -43,7 +43,7 @@
 
 ## 3. Ejecución de instalador
 <p align="center">
-<img src="img/anaconda5.png"/ width = 70%>
+<img src="img/anaconda5.png"/ width = 100%>
 
 ##### Mostrará una serie de pasos para su posterior instalación
 
